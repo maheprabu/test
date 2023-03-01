@@ -1,10 +1,10 @@
-this is the first time for using github
 
-this is my very first learning experience about git,
-git commands
-1.git --version
-2.git init
-3.git add sample.txt
-4.git commit -u "update"
-5.git push
-6.git pull
+
+<html>
+<head>
+<body>
+<h1> your code is wrong so pls change it <h1>
+</body>
+</head>
+</html>
+
